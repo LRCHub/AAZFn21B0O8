@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ウェザーリポート",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-04-01T00:48:47.063537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウェザーリポート",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_ウェザーリポート_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウェザーリポート (feat. ひかり)",
+      "artist": "Tokimeki Records",
+      "has_synced": true,
+      "path": "select/02_ウェザーリポート_(feat._ひかり)_Tokimeki_Records.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウェザーリポート",
+      "artist": "バンプ・オブ・チキン BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_ウェザーリポート_バンプ・オブ・チキン_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウェザーリポート (Weather Report)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_ウェザーリポート_(Weather_Report)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウェザーリポート (feat. ひかり)",
+      "artist": "Tokimeki Records,Hikari",
+      "has_synced": true,
+      "path": "select/05_ウェザーリポート_(feat._ひかり)_Tokimeki_Records,Hikari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウェザーリポート",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ウェザーリポート_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
